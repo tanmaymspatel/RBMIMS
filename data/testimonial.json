@@ -4,12 +4,12 @@
       "id": 1,
       "logoLight": "/images/testimonial/bodygroup.svg",
       "logoDark": "/images/testimonial/bodygroup-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "RBMIMS has transformed how we manage road projects. Real-time tracking and automated reports have reduced our manual workload drastically.",
       "rating": 4,
       "date": "Feb 03, 2024",
       "author": {
-        "name": "Robert Frost",
-        "designation": "Lead Developer",
+        "name": "Mr. Rakesh Sharma",
+        "designation": "Executive Engineer, Public Works Department",
         "image": "/images/testimonial/avatar1.png"
       }
     },
@@ -17,12 +17,12 @@
       "id": 2,
       "logoLight": "/images/testimonial/caudile.svg",
       "logoDark": "/images/testimonial/caudile-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "The platform made it easy to coordinate between field teams and the administration. Document uploads and approvals are now quick and hassle-free.",
       "rating": 5,
       "date": "Feb 04, 2024",
       "author": {
-        "name": "Guy Hawkins",
-        "designation": "Developer",
+        "name": "Anjali Mehta",
+        "designation": "District Project Officer, Rural Development Department",
         "image": "/images/testimonial/avatar2.png"
       }
     },
@@ -30,12 +30,12 @@
       "id": 3,
       "logoLight": "/images/testimonial/axeptio.svg",
       "logoDark": "/images/testimonial/axeptio-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "The GIS mapping and dashboards have improved our visibility across projects. It's a huge leap in infrastructure digitization.",
       "rating": 3,
       "date": "Feb 12, 2024",
       "author": {
-        "name": "Cody Fisher",
-        "designation": "UI Designer",
+        "name": "Vikram Desai",
+        "designation": "Senior Planning Officer, Urban Infrastructure Board",
         "image": "/images/testimonial/avatar3.png"
       }
     },
@@ -43,12 +43,12 @@
       "id": 4,
       "logoLight": "/images/testimonial/infinity.svg",
       "logoDark": "/images/testimonial/infinity-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "RBMIMS is very intuitive and mobile-friendly. I can update site progress and upload photos directly from the field, even on low connectivity.",
       "rating": 2,
       "date": "Feb 13, 2024",
       "author": {
-        "name": "Albert Flores",
-        "designation": "Sr. Developer",
+        "name": "Priya Kulkarni",
+        "designation": "Assistant Engineer, Roads & Buildings Department",
         "image": "/images/testimonial/avatar4.png"
       }
     },
@@ -56,12 +56,12 @@
       "id": 5,
       "logoLight": "/images/testimonial/mfinity.svg",
       "logoDark": "/images/testimonial/mfinity-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "With built-in tracking and logs, auditing has become more transparent. It’s easier to verify fund utilization and work status.",
       "rating": 1,
       "date": "Feb 23, 2024",
       "author": {
-        "name": "Floyed Miles",
-        "designation": "Junior Designer",
+        "name": "Harish Patel",
+        "designation": "Section Officer, Finance & Audit Division",
         "image": "/images/testimonial/avatar5.png"
       }
     },
@@ -69,12 +69,12 @@
       "id": 6,
       "logoLight": "/images/testimonial/coolchat.svg",
       "logoDark": "/images/testimonial/coolchat-dark.svg",
-      "testimonial": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin though it looks like it, and it actually says nothing.",
+      "testimonial": "We were able to bring all stakeholders under one platform. From planning to completion, RBMIMS ensured smooth execution of every step.",
       "rating": 5,
       "date": "Feb 07, 2024",
       "author": {
-        "name": "Bessie Cooper",
-        "designation": "Manager",
+        "name": "Nidhi Sharma",
+        "designation": "Chief Coordinator, PMGSY Projects",
         "image": "/images/testimonial/avatar6.png"
       }
     }

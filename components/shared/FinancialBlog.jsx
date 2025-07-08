@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 
-const FinancialBlog = ({ className = 'dark:bg-dark pb-150 pt-150' }) => {
+const FinancialBlog = ({ className = 'dark:bg-dark pb-150' }) => {
   const blogs = getMarkDownData('content/blogs')
 
   return (

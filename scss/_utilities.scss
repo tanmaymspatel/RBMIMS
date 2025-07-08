@@ -12,7 +12,7 @@
     stop-color: theme('colors.gray.darkGradient');
   }
   .badge {
-    @apply mb-2 inline-block rounded-full border border-primary bg-primary/10 px-3 py-1 text-sm leading-6 text-primary;
+    @apply mb-2 inline-block rounded-full px-3 py-1 text-sm leading-6 text-primary;
     &-primary {
       @apply bg-primary text-sm font-medium text-paragraph dark:text-paragraph;
     }

@@ -1,37 +1,120 @@
+This Privacy Policy explains how **RBMIMS (Road Building Mapping Information Management System)** collects, uses, shares, and protects your information when you use our mobile app and web platform.
+
 ---
-title: Privacy Policy
+
+### 1. Information We Collect
+
+We collect the following types of data:
+
+1. **User Information**
+
+   - Name, phone number, user ID, and role.
+   - Login credentials (used for authentication only)
+
+2. **Location Data**
+
+   - Real-time GPS location (when allowed by user)
+   - Infrastructure point coordinates (manually added)
+
+3. **Form Data**
+
+   - Road details, infrastructure entries, remarks, measurements.
+   - Uploaded files: images, drawings, documents.
+
+4. **Device Information**
+   - Device type, operating system, browser version (for technical diagnostics)
+
 ---
 
-At Aplio, we take your privacy seriously. This privacy policy explains how we collect, use, and protect your personal information.
+### 2. How We Use Your Information
 
-### Information We Collect
+We use the collected data to:
 
-We collect personal information that you provide to us such as your name, email address, and phone number when you submit a contact form or sign up for our newsletter. We also collect information about your visit to our website, including your IP address, browser type, and the pages you visit.
+- Enable user login and role-based access.
+- Allow users to add, view, and manage geotagged infrastructure data.
+- Process submitted records for review and approval.
+- Display road alignments and infrastructure on maps.
+- Improve platform performance and user experience.
+- Ensure security and prevent unauthorized access.
 
-### Use of Information
+---
 
-We use the information we collect to provide you with our services, respond to your inquiries, and send you marketing communications. We may also use your information to improve our website and to comply with legal obligations.
+### 3. Data Sharing & Access
 
-### Protection of Information
+We do **not** sell or share your personal data with third parties, except in the following cases:
 
-We take appropriate measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. We use industry-standard security measures such as SSL encryption to protect your data during transmission.
+- With administrators who review and approve submitted data.
+- With authorized staff managing backend support.
+- If required by law (e.g., responding to a legal request)
 
-### Disclosure of Information
+---
 
-We do not share your personal information with third parties except as required by law or as necessary to provide our services. We may share your information with our trusted partners who assist us in operating our website or providing our services.
+### 4. Data Storage & Security
 
-### Cookies
+- All data is stored securely on AWS instances and S3 servers.
+- Geospatial data is managed using PostgreSQL with PostGIS.
+- Images and documents are stored in secured cloud buckets.
+- Access is restricted via role-based permissions.
+- We use encryption (both in transit and at rest) and firewalls for protection.
 
-We use cookies and other similar technologies to collect information about your visit to our website. You may disable cookies in your browser settings, but please note that some features of our website may not function properly without cookies.
+---
 
-### Your Rights
+### 5. User Control
 
-You have the right to access, update, and delete your personal information. You may also object to our use of your personal information for marketing purposes. If you wish to exercise any of these rights, please contact us using the information below.
+You can:
 
-### Updates to Privacy Policy
+- Log in securely and update their personal information.
+- View their submitted data.
+- Request correction or deletion of inaccurate entries (via admin)
+- Disable GPS access via device settings.
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on our website. You are advised to review this privacy policy periodically for any changes.
+---
 
-### Contact Us
+### 6. Cookies & Tracking (Web Only)
 
-If you have any questions or concerns about this privacy policy or our use of your personal information, please contact us at [coantct](hello@aplio.com).
+Our web panel may use cookies for:
+
+- Session management.
+- User preference storage.
+- Analytics (optional and non-personalized)
+
+---
+
+### 7. Third‑Party Services
+
+We use external services such as:
+
+- **Google Maps** for geolocation and mapping.
+- **AWS S3** for secure file storage.
+
+_Note: These services are governed by their own privacy policies._
+
+---
+
+### 8. Data Retention
+
+We retain data for as long as your account is active or as needed for compliance and internal audits. Deleted records may remain in backup for up to 90 days.
+
+---
+
+### 9. Children’s Privacy
+
+RBMIMS is not intended for use by children under 16. We do not knowingly collect data from minors.
+
+---
+
+### 10. Policy Updates
+
+We may update this policy as our features evolve. Any changes will be posted here with an updated effective date.
+
+---
+
+### 11. Contact Us
+
+If you have questions or concerns about this policy, please contact:
+
+- **Email:** info@rbmims.com
+- **Phone:** +91 98243 53327
+- **Address:**  
+  CCS House, Manisha Cross Road 4,  
+  Manisha Society, Vadodara, 390015, India

@@ -37,8 +37,8 @@ const VisionAnimation = () => {
         ref={ref3}
         animate={controlAnimation3}
         variants={fadeFromLeftAnimation}>
-        <Image src={visionImage2Light} alt="vision image shape" className="h-full w-full object-contain dark:hidden" />
-        <Image src={visionImage2Dark} alt="vision image shape" className="hidden h-full w-full dark:inline-block" />
+        <Image src={visionImageOneDark} alt="vision image shape" className="h-full w-full object-contain dark:hidden" />
+        <Image src={visionImageOneDark} alt="vision image shape" className="hidden h-full w-full dark:inline-block" />
       </motion.div>
       <motion.div
         variants={fadeUpAnimation}

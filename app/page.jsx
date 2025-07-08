@@ -13,7 +13,7 @@ import Services from '@/components/shared/Services'
 import Testimonial from '@/components/shared/Testimonial'
 
 export const metadata = {
-  title: 'Aplio',
+  title: 'RBMIMS',
 }
 
 export default function Home() {

@@ -25,31 +25,36 @@ const Vision = () => {
       <div className="container relative z-10">
         <div className="grid grid-cols-2 items-end gap-10 max-md:grid-cols-1 1xl:gap-x-24">
           <div>
-            <p className="section-tagline">Data Integrations</p>
-            <h2 className="mb-8 max-lg:mb-4">A strong vision is crucial for the analysis of wealth.</h2>
+            <p className="section-tagline">Vision</p>
+            <h2 className="mb-8 max-lg:mb-4">A strong vision is crucial.</h2>
             <p className="mb-11 max-lg:mb-5">
-              Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text nothing Before & After
-              magazine.
+              RBMIMS bridges the gap between fieldwork and administration. Track, monitor, and analyze infrastructure
+              progress like never before.
             </p>
             <ul className="mb-14 [&>*:not(:last-child)]:mb-6 max-lg:[&>*:not(:last-child)]:mb-4 ">
               <li className="flex items-center gap-x-2 ">
                 <span className=" shadow-icon item-center relative flex h-7 w-7 justify-center rounded-full bg-white dark:bg-dark-200">
                   <FaCheck className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-paragraph dark:text-primary " />
                 </span>
-                <span className="font-jakarta_sans font-medium dark:text-white">Guided Payment Procurement</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Field-level data entry</span>
               </li>
               <li className="flex items-center gap-x-2">
                 <span className=" shadow-icon item-center relative flex h-7 w-7 justify-center rounded-full bg-white dark:bg-dark-200">
                   <FaCheck className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-paragraph dark:text-primary " />
                 </span>
-                <span className="font-jakarta_sans font-medium dark:text-white">Guided Payment Procurement</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Departmental workflow automation</span>
               </li>
               <li className="flex items-center gap-x-2 ">
                 <span className=" shadow-icon item-center relative flex h-7 w-7 justify-center rounded-full bg-white dark:bg-dark-200">
                   <FaCheck className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-paragraph dark:text-primary " />
                 </span>
-
-                <span className="font-jakarta_sans font-medium dark:text-white">Guided Payment Procurement</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">GIS-enabled dashboards</span>
+              </li>
+              <li className="flex items-center gap-x-2 ">
+                <span className=" shadow-icon item-center relative flex h-7 w-7 justify-center rounded-full bg-white dark:bg-dark-200">
+                  <FaCheck className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-paragraph dark:text-primary " />
+                </span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Budget & expenditure transparency</span>
               </li>
             </ul>
             <Link href="/contact" className="btn">

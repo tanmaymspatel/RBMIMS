@@ -319,3 +319,26 @@ span {
     position: relative;
   }
 }
+
+.header_logo {
+  width: auto;
+  height: 46px;
+}
+
+.btn::after {
+  background-color: rgb(14, 78, 99);
+}
+
+.badge {
+  border: 1px solid rgb(14, 78, 99);
+  background-color: rgb(14, 78, 99, 0.1);
+  color: rgb(14, 78, 99);
+}
+
+.fill-secondary {
+  fill: rgb(14, 78, 99);
+}
+
+.crossrods_radius {
+  border-radius: 16px;
+}

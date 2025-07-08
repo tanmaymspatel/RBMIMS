@@ -3,38 +3,38 @@
     {
       "id": 1,
       "type": ["general", "changelog"],
-      "question": "What is a business agency?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "What is RBMIMS used for?",
+      "answer": "RBMIMS is a digital platform designed to streamline infrastructure project workflows. It allows users to manage planning, road mapping, execution tracking, and document handling — all in one place. Ideal for public works and government departments."
     },
     {
       "id": 2,
       "type": ["general"],
-      "question": "What services does a business agency provide?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "Who can access the portal?",
+      "answer": "The portal supports multiple user roles like engineers, officers, contractors, and admins. Access is secure and role-based, so each user only sees the data and tools relevant to their responsibilities."
     },
     {
       "id": 3,
       "type": ["general", "changelog"],
-      "question": "How often should I update my website?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "Is it mobile-friendly?",
+      "answer": "Yes, RBMIMS is fully responsive and optimized for mobile and tablet use. Field staff can update data, upload images, or check status updates directly from project sites with ease."
     },
     {
       "id": 4,
       "type": ["general", "terms"],
-      "question": "How do subscriptions work?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "Can I upload documents?",
+      "answer": "Absolutely. Users can upload, view, and manage various files like PDFs, Excel sheets, and images. The system also supports document approval workflows, ensuring smooth communication between departments."
     },
     {
       "id": 5,
       "type": ["changelog", "terms"],
-      "question": "What other services are you compatible with?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "How does it support transparency?",
+      "answer": "The platform offers real-time dashboards, automated reporting, and user activity logs. This ensures clear visibility, accountability, and timely tracking of project progress for all stakeholders."
     },
     {
       "id": 6,
       "type": ["general", "terms"],
-      "question": "What other services are you compatible with?",
-      "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+      "question": "Is training provided?",
+      "answer": "Yes, onboarding support is included with each deployment. We also provide training sessions, user manuals, and ongoing technical support to ensure every user can operate the system effectively."
     }
   ]
 }

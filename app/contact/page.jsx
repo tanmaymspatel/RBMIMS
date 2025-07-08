@@ -1,5 +1,6 @@
 import ContactInfo from '@/components/contact/ContactInfo'
 import Footer from '@/components/footer/Footer'
+import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
 import SecondaryNavbar from '@/components/navbar/SecondaryNavbar'
 import ContactForm from '@/components/shared/ContactForm'
 import NewsLetter from '@/components/shared/NewsLetter'
@@ -12,7 +13,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <SecondaryNavbar />
+      <PrimaryNavbar />
       <main>
         <PageHero
           subtitle="GET IN TOUCH"

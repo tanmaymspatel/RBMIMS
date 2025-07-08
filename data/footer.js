@@ -1,83 +1,59 @@
 import { Behance, Facebook, Github, LinkedIn } from './svgImages'
 export const FooterData = {
-  logo: '/images/logo.svg',
-  logoDark: '/images/logo-light.svg',
-  footerText: 'Turpis tortor nunc sed amet et faucibus vitae morbi congue sed id mauris.',
-  copyright: `${new Date().getFullYear()} Aplio. All Rights Reserved`,
-  email: 'info@example.com',
-  phone: '+3 230 705 5448',
+  logo: '/images/rbmims-logo.png',
+  logoDark: '/images/rbmims-logo.png',
+  footerText:
+    'RBMIMS is a unified platform for managing infrastructure and road development projects with transparency and efficiency. Designed for government departments, it brings planning, tracking, and reporting under one secure digital system.',
+  copyright: `${new Date().getFullYear()} RBMIMS. All Rights Reserved`,
+  email: 'info@rbmims.com',
+  phone: '+919824353327',
   expolre: [
     {
       id: 1,
       name: 'About',
-      link: '/about',
+      link: '#',
     },
     {
       id: 2,
       name: 'Services',
-      link: '/services',
+      link: '#',
     },
     {
       id: 3,
       name: 'Career',
-      link: '/career',
-    },
-    {
-      id: 4,
-      name: 'Payment',
-      link: '/home-2',
+      link: '#',
     },
     {
       id: 5,
       name: 'Pricing',
-      link: '/price',
+      link: '#',
     },
     {
       id: 6,
-      name: "Faq's",
-      link: '/faq',
+      name: 'FAQs',
+      link: '#',
     },
     {
       id: 7,
       name: 'Testimonials',
-      link: '/testimonial',
+      link: '#',
     },
   ],
   resources: [
     {
-      id: 1,
-      name: 'Banking',
-      link: '/home-3',
-    },
-    {
       id: 2,
       name: 'Team',
-      link: '/teams',
+      link: '#',
     },
     {
       id: 3,
       name: 'Integration',
-      link: '/integration',
+      link: '#',
     },
     {
       id: 4,
       name: 'Blog',
-      link: '/blog',
-    },
-    {
-      id: 5,
-      name: 'Log In',
-      link: '/login',
-    },
-    {
-      id: 6,
-      name: 'Sign Up',
-      link: '/signup',
-    },
-    {
-      id: 7,
-      name: '404',
-      link: '/not-found',
+      link: '#',
     },
   ],
 

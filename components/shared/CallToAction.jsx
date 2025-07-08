@@ -13,7 +13,7 @@ const CallToAction = ({ title }) => {
         <div className=" mx-auto text-center">
           <h2 className="mx-auto mb-5 max-w-[800px] text-[48px] font-semibold max-lg:text-[32px]">{title}</h2>
           <p className="mx-auto mb-12 max-w-[400px] max-lg:mt-6">
-            By creating a custom Web design for your business, we can bring your vision to life.
+            Experience the power of RBMIMS with a guided demo or trial account.
           </p>
           <Link href="/contact" className="btn">
             Get Started Today

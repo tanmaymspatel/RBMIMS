@@ -14,30 +14,45 @@ const Solution = () => {
             <div className="relative pt-150 lg:px-150 lg:py-150">
               <div className="relative mx-auto aspect-video w-[250px] lg:w-[300px]">
                 <Image src={solutionImage} alt="vision image" className="dark:hidden" />
-                <Image src={solutionImageDark} alt="vision image" className="hidden dark:inline-block" />
-                <SolutionAnimation />
+                {/* <Image src={solutionImageDark} alt="vision image" className="hidden dark:inline-block" /> */}
+                {/* <SolutionAnimation /> */}
               </div>
             </div>
           </div>
           <div className="max-md:order-1 lg:-mt-15">
-            <p className="section-tagline">Strong Solutions</p>
-            <h2 className="mb-8 max-lg:mb-4">Ensure strong solutions are available at all times</h2>
+            <p className="section-tagline">Benefits</p>
+            <h2 className="mb-8 max-lg:mb-4">Built for Scale, Backed by Reliability</h2>
             <p className="mb-11 max-lg:mb-6">
-              Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It&rsquo;s not Latin
-              though it looks like nothing.
+              With robust backend systems and secure cloud integration, RBMIMS ensures every stakeholder has access to
+              the right tools—anytime, anywhere.
             </p>
+            <ul className="mb-8 flex max-lg:mb-6 max-md:flex-col max-md:gap-y-5 lg:items-center lg:[&>*:not(:last-child)]:mr-10">
+              <li className="relative flex items-center gap-x-2 ">
+                <FaCheck className="text-paragraph dark:text-primary" />
+                <span className="font-jakarta_sans font-medium dark:text-white">Multi-tier Security</span>
+              </li>
+              <li className="relative flex items-center gap-x-2 ">
+                <FaCheck className="text-paragraph dark:text-primary" />
+                <span className="font-jakarta_sans font-medium dark:text-white">99.9% Uptime</span>
+              </li>
+              <li className="relative flex items-center gap-x-2 ">
+                <FaCheck className="text-paragraph dark:text-primary" />
+                <span className="font-jakarta_sans font-medium dark:text-white">Role-based Authorization</span>
+              </li>
+            </ul>
+
             <ul className="mb-14 flex max-lg:mb-6 max-md:flex-col max-md:gap-y-5 lg:items-center lg:[&>*:not(:last-child)]:mr-10">
               <li className="relative flex items-center gap-x-2 ">
                 <FaCheck className="text-paragraph dark:text-primary" />
-                <span className="font-jakarta_sans font-medium dark:text-white">On Demand Support</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Fully Responsive</span>
               </li>
               <li className="relative flex items-center gap-x-2 ">
                 <FaCheck className="text-paragraph dark:text-primary" />
-                <span className="font-jakarta_sans font-medium dark:text-white">Information Sharing</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Audit Logs</span>
               </li>
               <li className="relative flex items-center gap-x-2 ">
                 <FaCheck className="text-paragraph dark:text-primary" />
-                <span className="font-jakarta_sans font-medium dark:text-white">Cloud Technology</span>
+                <span className="font-jakarta_sans font-medium dark:text-white">Easy Onboarding</span>
               </li>
             </ul>
             <Link href="/contact" className="btn-outline">

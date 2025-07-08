@@ -88,9 +88,9 @@ const IntegrationAnimation = () => {
       <div className="relative -z-10 mx-auto -mt-15 max-w-[1068px] max-md:hidden">
         <div className="relative z-10 w-full py-[175px] max-xl:py-150 max-lg:py-25">
           <div className="align-center relative mx-auto flex h-150 w-150 flex-row justify-center rounded-full bg-white shadow-nav dark:bg-dark-200">
-            <div className="align-center absolute left-1/2 top-1/2 mx-auto flex h-[122px] w-[122px] -translate-x-1/2 -translate-y-1/2  flex-row justify-center rounded-full bg-primary-100 dark:bg-[#2B2D2A]">
-              <span className="inline-block px-[25px] py-[46px] text-[30px] font-semibold leading-none text-primary">
-                aplio
+            <div className="align-center absolute left-1/2 top-1/2 mx-auto flex h-[122px] w-[122px] -translate-x-1/2 -translate-y-1/2  flex-row justify-center rounded-full bg-primary-200/20 dark:bg-[#2B2D2A]">
+              <span className="inline-block px-[25px] py-[46px] text-[26px] font-semibold leading-none text-primary-200">
+                RBMIMS
               </span>
             </div>
           </div>
@@ -116,10 +116,10 @@ const IntegrationAnimation = () => {
                 />
                 <g id="rect" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>
@@ -167,10 +167,10 @@ const IntegrationAnimation = () => {
                 <path id="path-2" d="M0 1H373" stroke="#DCE0D3" strokeDasharray="5 3" />
                 <g id="rect-2" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>
@@ -223,10 +223,10 @@ const IntegrationAnimation = () => {
                 />
                 <g id="rect-3" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>
@@ -280,10 +280,10 @@ const IntegrationAnimation = () => {
                 />
                 <g id="rect-4" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>
@@ -331,10 +331,10 @@ const IntegrationAnimation = () => {
                 <path id="path-5" d="M373 1H0" stroke="#DCE0D3" strokeDasharray="5 3" />
                 <g id="rect-5" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>
@@ -393,10 +393,10 @@ const IntegrationAnimation = () => {
                 />
                 <g id="rect-6" data-svg-origin="25.5 25.5" transform="matrix(1,0,0,1,255.40852,119.431)">
                   <g filter="url(#filter0_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="7.5" fill="" className="fill-secondary"></circle>
                   </g>
                   <g filter="url(#filter1_f_283_246)">
-                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-primary"></circle>
+                    <circle cx="25.5" cy="25.5" r="5.5" fill="" className="fill-secondary"></circle>
                   </g>
                 </g>
                 <defs>

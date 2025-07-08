@@ -9,7 +9,13 @@ const Footer = () => {
       <div className="container">
         <div className="mb-20 grid grid-cols-12 max-lg:gap-y-10 max-lg:text-center">
           <div className="col-span-12 lg:col-span-6">
-            <Image src={FooterData.logo} alt="logo" className="mb-10 inline-block dark:hidden" width={70} height={29} />
+            <Image
+              src={FooterData.logo}
+              alt="logo"
+              className="header_logo mb-10 inline-block dark:hidden"
+              width={70}
+              height={29}
+            />
             <Image
               src={FooterData.logoDark}
               alt="logo dark version"
@@ -101,13 +107,13 @@ const Footer = () => {
                   Privacy Policy
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   href="/terms"
                   className="relative inline-block overflow-hidden text-base capitalize text-paragraph before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph before:transition-transform before:duration-500  before:content-[''] before:hover:origin-left before:hover:scale-x-100 dark:text-white dark:before:bg-white">
                   Terms & Conditions
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

@@ -2,9 +2,9 @@
   "ServiceData": [
     {
       "id": 1,
-      "slug": "investment-bank",
-      "title": "Investment Banks",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "project-mapping",
+      "title": "Project Mapping",
+      "excerpt": "GIS-based visualization of roads, regions, and progress reports.",
       "iconLight": "/images/services/investment.svg",
       "iconDark": "/images/services/investment-dark.svg",
       "featureImage": "/images/services/service-single1.png",
@@ -35,11 +35,12 @@
         }
       ]
     },
+
     {
       "id": 2,
-      "slug": "sales",
-      "title": "Sales & Trading",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "budget-tracking",
+      "title": "Budget & Tracking",
+      "excerpt": "Manage costs, release orders, and expenditure logs easily.",
       "iconLight": "/images/services/sales.svg",
       "iconDark": "/images/services/sales-dark.svg",
       "featureImage": "/images/services/service-single1.png",
@@ -70,11 +71,12 @@
         }
       ]
     },
+
     {
       "id": 3,
-      "slug": "mortage-loan",
-      "title": "Mortgage Loans",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "work-orders",
+      "title": "Work Orders",
+      "excerpt": "Issue, assign, and monitor project orders seamlessly.",
       "iconLight": "/images/services/loan.svg",
       "iconDark": "/images/services/loan-dark.svg",
       "featureImage": "/images/services/service-single1.png",
@@ -105,11 +107,12 @@
         }
       ]
     },
+
     {
       "id": 4,
-      "slug": "finance-analyse",
-      "title": "Finance Analysis",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "document-upload",
+      "title": "Document Upload",
+      "excerpt": "Centralized file handling with secure cloud storage.",
       "iconLight": "/images/services/finance.svg",
       "iconDark": "/images/services/finance-dark.svg",
       "featureImage": "/images/services/service-single1.png",
@@ -140,11 +143,12 @@
         }
       ]
     },
+
     {
       "id": 5,
-      "slug": "effeciency",
-      "title": "Increased Efficiency",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "performance-dashboards",
+      "title": "Performance Dashboards",
+      "excerpt": "Real-time dashboards for department heads and project managers.",
       "iconLight": "/images/services/effeciency.svg",
       "iconDark": "/images/services/effeciency-dark.svg",
       "featureImage": "/images/services/service-single1.png",
@@ -175,11 +179,12 @@
         }
       ]
     },
+
     {
       "id": 6,
-      "slug": "fund",
-      "title": "Fundraising Advice",
-      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "slug": "multi-user-access",
+      "title": "Multi-User Access",
+      "excerpt": "Role-based access for engineers, officers, and administrators.",
       "iconLight": "/images/services/fund.svg",
       "iconDark": "/images/services/fund-dark.svg",
       "featureImage": "/images/services/service-single1.png",

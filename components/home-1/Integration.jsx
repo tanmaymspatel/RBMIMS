@@ -8,10 +8,10 @@ const Integration = () => {
         <div className="mx-auto max-w-[620px] text-center">
           <p className="section-tagline">Top Integration</p>
 
-          <h2 className="mb-8">Make productivity easier with 50+ Integrations</h2>
+          <h2 className="mb-8">Seamless Integration with Existing Tools</h2>
           <p className="mb-10">
-            Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It&rsquo;s not Latin
-            though it looks like nothing.
+            RBMIMS connects with GIS tools, document repositories, government APIs, and more — simplifying your digital
+            transformation.
           </p>
 
           <Link href="/contact" className="btn-outline">

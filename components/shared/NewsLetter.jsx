@@ -15,7 +15,7 @@ const NewsLetter = () => {
           <div className="grid-y-10 grid grid-cols-12 items-start">
             <div className="max-md:col-span-full md:col-span-6 lg:col-span-7">
               <h2 className="mb-5 text-[48px] font-semibold max-lg:text-[32px]">Start your free trial now!</h2>
-              <p>By creating a custom Web design for your business, we can bring your vision to life.</p>
+              <p>Experience the power of RBMIMS with a guided demo or trial account.</p>
             </div>
             <div className="max-md:col-span-full max-md:mt-5 md:col-span-6 lg:col-span-5 ">
               <form>

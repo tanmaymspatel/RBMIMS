@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const { after } = require('next/server')
 const defaultTheme = require('tailwindcss/defaultTheme')
 module.exports = {
   content: [
@@ -26,7 +27,7 @@ module.exports = {
         primary: {
           DEFAULT: '#B1E346',
           100: '#F3F8E8',
-          200: '#C4F241',
+          200: 'rgb(14, 78, 99)',
         },
         dark: {
           DEFAULT: '#131410',
@@ -36,7 +37,7 @@ module.exports = {
           gradient: '#191917',
         },
         gray: {
-          DEFAULT: '#F6F8F1',
+          DEFAULT: 'rgb(14, 78, 99, 0.10)',
           100: '#DCE0D3',
           200: '#D9E0C5',
           50: '#F7F7F7',
