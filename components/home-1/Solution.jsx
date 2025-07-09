@@ -1,9 +1,7 @@
-import solutionImageDark from '@/public/images/solution/solution-dark.png'
 import solutionImage from '@/public/images/solution/solution.png'
 import Image from 'next/image'
 import Link from 'next/link'
 import { FaCheck } from 'react-icons/fa'
-import SolutionAnimation from './SolutionAnimation'
 
 const Solution = () => {
   return (

@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import heroChartDark from '../../public/images/hero/hero-chart-dark.png'
 // import heroChartLight from '../../public/images/hero/crossroads.jpg'
 import heroCircleDark from '../../public/images/hero/hero-circle-dark.png'
 import heroCircleLight from '../../public/images/hero/hero-circle.png'
